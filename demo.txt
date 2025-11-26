@@ -1,0 +1,4 @@
+insert
+This is sample notepad file named demo.txt
+iHello everyone
+
