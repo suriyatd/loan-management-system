@@ -1,4 +1,2 @@
-insert
 This is sample notepad file named demo.txt
-iHello everyone
-
+Hello everyone and take care of your health
